@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cMSqSWNEX6Tt95yDSBQCYZFc0C/1ATrksvs4KQN4ED8FJlHjd7IDXqK0duKIz5lJCcf42b8scpO7dIWJMdVuGQ==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\computer science\\coursera\\CleanMovie.API\\CleanMovie.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\musta\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\musta\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\musta\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\musta\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\musta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\musta\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
