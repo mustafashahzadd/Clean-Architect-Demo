@@ -1,0 +1,12 @@
+D:\Desktop\computer science\coursera\CleanMovie.Domain\bin\Debug\net6.0\CleanMovie.Domain.deps.json
+D:\Desktop\computer science\coursera\CleanMovie.Domain\bin\Debug\net6.0\CleanMovie.Domain.dll
+D:\Desktop\computer science\coursera\CleanMovie.Domain\bin\Debug\net6.0\CleanMovie.Domain.pdb
+D:\Desktop\computer science\coursera\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.csproj.AssemblyReference.cache
+D:\Desktop\computer science\coursera\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\computer science\coursera\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.AssemblyInfoInputs.cache
+D:\Desktop\computer science\coursera\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.AssemblyInfo.cs
+D:\Desktop\computer science\coursera\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\computer science\coursera\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.dll
+D:\Desktop\computer science\coursera\CleanMovie.Domain\obj\Debug\net6.0\refint\CleanMovie.Domain.dll
+D:\Desktop\computer science\coursera\CleanMovie.Domain\obj\Debug\net6.0\CleanMovie.Domain.pdb
+D:\Desktop\computer science\coursera\CleanMovie.Domain\obj\Debug\net6.0\ref\CleanMovie.Domain.dll
